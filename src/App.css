@@ -47,3 +47,10 @@
   background-position: center;
   background-size: cover;
 }
+
+.photo{
+  background: url('/public/photo.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
