@@ -40,3 +40,10 @@
     transform: rotate(360deg);
   }
 }
+
+.footerA{
+  background: url('/public/footera.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
